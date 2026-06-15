@@ -32,7 +32,7 @@ analysis (lift-based cross-tabulation) and the AI-generated report.
 
 ## Dashboard
 
-![Win/Loss Intelligence Dashboard](screenshots/dashboard.png)
+![Win/Loss Intelligence Dashboard](screensorts%20of%20dashboard/Screenshot%202026-06-15%20172748.png)
 
 A 5-report HubSpot dashboard built from Gemini-tagged deal data:
 
