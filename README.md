@@ -126,12 +126,3 @@ Competitor B -> pricing in large deals). The pipeline's pattern analysis
 and AI-generated report both independently rediscovered these exact
 patterns from the raw text alone - confirming the methodology works
 correctly end to end.
-
-## Resume bullet
-
-> Built an automated win/loss analysis pipeline integrated with HubSpot
-> CRM via API - used Gemini to extract structured loss/win reason tags
-> from 100 deal records, wrote tags back into CRM custom fields, identified
-> statistically significant loss patterns by competitor, industry, and
-> deal size (validated against known planted patterns), built a 5-report
-> HubSpot dashboard, and generated a leadership-ready intelligence report.
