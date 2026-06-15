@@ -1,4 +1,4 @@
-# Win/Loss Pattern Miner — CRM-Integrated
+# Win/Loss Pattern Miner
 
 An automated pipeline that pulls closed deals from HubSpot, uses an LLM
 (Gemini) to extract structured win/loss reason tags from free-text deal
