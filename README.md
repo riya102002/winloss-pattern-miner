@@ -31,8 +31,11 @@ These were independently confirmed by both the pure-Python pattern
 analysis (lift-based cross-tabulation) and the AI-generated report.
 
 ## Dashboard
-
+**Screenshot 1** 
 ![Win/Loss Intelligence Dashboard](screensorts%20of%20dashboard/Screenshot%202026-06-15%20172748.png)
+**Screenshot 2**
+![Win/Loss Intelligence Dashboard](screensorts%20of%20dashboard/Screenshot%202026-06-15%20173649.png)
+
 
 A 5-report HubSpot dashboard built from Gemini-tagged deal data:
 
