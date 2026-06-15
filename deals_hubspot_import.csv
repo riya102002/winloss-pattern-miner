@@ -1,0 +1,101 @@
+Deal Name,Amount,Deal Stage,Pipeline,industry,company_size,competitor_mentioned,sales_cycle_days,deal_notes,loss_reason_tag,win_reason_tag,internal_deal_id
+Deal 0001,5800000,Closed Lost,Deals pipeline,Manufacturing,500+,Competitor B,76,"Lost to Competitor B, they undercut us by almost 25% on the enterprise contract.",,,D0001
+Deal 0002,2600000,Closed Won,Deals pipeline,Healthcare,51-200,,15,Champion left mid-cycle but new stakeholder preferred us due to reporting capabilities.,,,D0002
+Deal 0003,900000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,36,"Lost to Competitor A, implementation speed was the deciding factor, not budget.",,,D0003
+Deal 0004,4400000,Closed Won,Deals pipeline,Healthcare,1-50,,70,"Price was comparable but our implementation timeline sealed it, they needed to go live in 30 days.",,,D0004
+Deal 0005,3200000,Closed Won,Deals pipeline,EdTech,51-200,,67,Won mainly due to existing relationship with the CFO from a previous company.,,,D0005
+Deal 0006,300000,Closed Won,Deals pipeline,Healthcare,201-500,,90,Customer chose us for better customer support reputation based on reference calls.,,,D0006
+Deal 0007,3400000,Closed Won,Deals pipeline,Fintech,51-200,,78,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0007
+Deal 0008,6600000,Closed Lost,Deals pipeline,Fintech,500+,Competitor B,150,"Competitor B again on a large deal, customer said budget was approved for a lower number than our floor.",,,D0008
+Deal 0009,3800000,Closed Won,Deals pipeline,Logistics,201-500,,39,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0009
+Deal 0010,300000,Closed Won,Deals pipeline,Logistics,1-50,,50,Won mainly due to existing relationship with the CFO from a previous company.,,,D0010
+Deal 0011,3800000,Closed Won,Deals pipeline,Healthcare,51-200,,55,Won mainly due to existing relationship with the CFO from a previous company.,,,D0011
+Deal 0012,2500000,Closed Won,Deals pipeline,Fintech,51-200,,35,Customer chose us for better customer support reputation based on reference calls.,,,D0012
+Deal 0013,300000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,38,"Lost to Competitor A, they could go live in days while our implementation takes weeks, timeline was the dealbreaker.",,,D0013
+Deal 0014,3800000,Closed Won,Deals pipeline,Healthcare,51-200,,25,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0014
+Deal 0015,2400000,Closed Lost,Deals pipeline,Fintech,500+,,49,"No competitor mentioned, customer decided to build in-house instead.",,,D0015
+Deal 0016,1600000,Closed Won,Deals pipeline,Fintech,500+,,72,"Won on a multi-year discount we offered, customer was price sensitive but valued the relationship.",,,D0016
+Deal 0017,6300000,Closed Lost,Deals pipeline,Fintech,500+,Competitor B,122,"Lost to Competitor B after a long negotiation, their per-seat pricing was significantly lower for this volume.",,,D0017
+Deal 0018,3600000,Closed Lost,Deals pipeline,Manufacturing,500+,Competitor B,141,"Competitor B again on a large deal, customer said budget was approved for a lower number than our floor.",,,D0018
+Deal 0019,1900000,Closed Won,Deals pipeline,Healthcare,500+,,73,"Price was comparable but our implementation timeline sealed it, they needed to go live in 30 days.",,,D0019
+Deal 0020,4000000,Closed Won,Deals pipeline,Manufacturing,1-50,,56,"Won after a strong product demo, no major competitor mentioned in this cycle.",,,D0020
+Deal 0021,1100000,Closed Won,Deals pipeline,Logistics,500+,,39,"They were evaluating two vendors, we won because our integration with their existing stack was native.",,,D0021
+Deal 0022,5200000,Closed Lost,Deals pipeline,Logistics,201-500,Competitor C,62,"No competitor mentioned, customer decided to build in-house instead.",,,D0022
+Deal 0023,4300000,Closed Won,Deals pipeline,Logistics,201-500,,58,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0023
+Deal 0024,1900000,Closed Won,Deals pipeline,Manufacturing,51-200,,77,Won mainly due to existing relationship with the CFO from a previous company.,,,D0024
+Deal 0025,500000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,21,We lost to Competitor A. Customer needed something live before a regulatory deadline and our setup time was too long.,,,D0025
+Deal 0026,1200000,Closed Won,Deals pipeline,Logistics,51-200,,74,Champion left mid-cycle but new stakeholder preferred us due to reporting capabilities.,,,D0026
+Deal 0027,200000,Closed Won,Deals pipeline,Fintech,51-200,,24,Closed because our onboarding was 2 weeks vs their 8 week quote. Champion pushed hard internally.,,,D0027
+Deal 0028,200000,Closed Lost,Deals pipeline,Healthcare,500+,Competitor C,76,"No competitor mentioned, customer decided to build in-house instead.",,,D0028
+Deal 0029,700000,Closed Won,Deals pipeline,Healthcare,500+,,85,"They were evaluating two vendors, we won because our integration with their existing stack was native.",,,D0029
+Deal 0030,300000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,40,"Competitor A won this because of much faster onboarding, price was actually similar.",,,D0030
+Deal 0031,2000000,Closed Won,Deals pipeline,Healthcare,51-200,,25,Won mainly due to existing relationship with the CFO from a previous company.,,,D0031
+Deal 0032,4800000,Closed Won,Deals pipeline,Healthcare,500+,,58,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0032
+Deal 0033,7400000,Closed Lost,Deals pipeline,Fintech,500+,Competitor B,91,"Competitor B's aggressive enterprise discount won this one, feature comparison was actually in our favor.",,,D0033
+Deal 0034,3400000,Closed Won,Deals pipeline,Logistics,201-500,,37,Customer chose us for better customer support reputation based on reference calls.,,,D0034
+Deal 0035,5800000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor C,43,"Lost on timing, customer paused all new vendor evaluations due to internal reorg.",,,D0035
+Deal 0036,5000000,Closed Won,Deals pipeline,E-commerce,1-50,,35,Champion left mid-cycle but new stakeholder preferred us due to reporting capabilities.,,,D0036
+Deal 0037,900000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,29,"Lost to Competitor A, implementation speed was the deciding factor, not budget.",,,D0037
+Deal 0038,900000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,20,"Lost to Competitor A, they could go live in days while our implementation takes weeks, timeline was the dealbreaker.",,,D0038
+Deal 0039,3700000,Closed Won,Deals pipeline,Fintech,500+,,36,"They were evaluating two vendors, we won because our integration with their existing stack was native.",,,D0039
+Deal 0040,4500000,Closed Won,Deals pipeline,E-commerce,51-200,,56,Closed because our onboarding was 2 weeks vs their 8 week quote. Champion pushed hard internally.,,,D0040
+Deal 0041,1300000,Closed Won,Deals pipeline,Fintech,500+,,50,"Won after a strong product demo, no major competitor mentioned in this cycle.",,,D0041
+Deal 0042,600000,Closed Won,Deals pipeline,Logistics,500+,,83,Customer liked our pricing flexibility and the demo landed really well with the finance team.,,,D0042
+Deal 0043,2600000,Closed Won,Deals pipeline,Healthcare,1-50,,27,"Price was comparable but our implementation timeline sealed it, they needed to go live in 30 days.",,,D0043
+Deal 0044,2600000,Closed Lost,Deals pipeline,EdTech,1-50,Competitor C,83,"No competitor mentioned, customer decided to build in-house instead.",,,D0044
+Deal 0045,1200000,Closed Won,Deals pipeline,E-commerce,500+,,73,Closed because our onboarding was 2 weeks vs their 8 week quote. Champion pushed hard internally.,,,D0045
+Deal 0046,2700000,Closed Won,Deals pipeline,Logistics,500+,,73,Customer liked our pricing flexibility and the demo landed really well with the finance team.,,,D0046
+Deal 0047,3800000,Closed Lost,Deals pipeline,E-commerce,500+,Competitor B,69,"Competitor B's aggressive enterprise discount won this one, feature comparison was actually in our favor.",,,D0047
+Deal 0048,3700000,Closed Won,Deals pipeline,EdTech,201-500,,16,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0048
+Deal 0049,700000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,39,We lost to Competitor A. Customer needed something live before a regulatory deadline and our setup time was too long.,,,D0049
+Deal 0050,2400000,Closed Won,Deals pipeline,Fintech,201-500,,41,"They were evaluating two vendors, we won because our integration with their existing stack was native.",,,D0050
+Deal 0051,2600000,Closed Won,Deals pipeline,Manufacturing,1-50,,63,"Won on a multi-year discount we offered, customer was price sensitive but valued the relationship.",,,D0051
+Deal 0052,3400000,Closed Won,Deals pipeline,Fintech,51-200,,18,Customer chose us for better customer support reputation based on reference calls.,,,D0052
+Deal 0053,2200000,Closed Won,Deals pipeline,Fintech,1-50,,66,"They were evaluating two vendors, we won because our integration with their existing stack was native.",,,D0053
+Deal 0054,900000,Closed Won,Deals pipeline,Manufacturing,500+,,46,Won mainly due to existing relationship with the CFO from a previous company.,,,D0054
+Deal 0055,400000,Closed Won,Deals pipeline,E-commerce,201-500,,73,Customer chose us for better customer support reputation based on reference calls.,,,D0055
+Deal 0056,3300000,Closed Lost,Deals pipeline,E-commerce,500+,Competitor B,60,"Lost to Competitor B after a long negotiation, their per-seat pricing was significantly lower for this volume.",,,D0056
+Deal 0057,1100000,Closed Won,Deals pipeline,E-commerce,201-500,,42,"Price was comparable but our implementation timeline sealed it, they needed to go live in 30 days.",,,D0057
+Deal 0058,400000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,31,"Customer picked Competitor A for faster time to value, mentioned our setup process felt too heavy for their size.",,,D0058
+Deal 0059,1500000,Closed Won,Deals pipeline,Manufacturing,500+,,84,Won mainly due to existing relationship with the CFO from a previous company.,,,D0059
+Deal 0060,2600000,Closed Lost,Deals pipeline,Fintech,1-50,,14,Customer chose to stay with incumbent vendor after renewal negotiations improved.,,,D0060
+Deal 0061,3900000,Closed Won,Deals pipeline,Fintech,1-50,,84,Closed because our onboarding was 2 weeks vs their 8 week quote. Champion pushed hard internally.,,,D0061
+Deal 0062,3700000,Closed Lost,Deals pipeline,EdTech,201-500,,26,"No competitor mentioned, customer decided to build in-house instead.",,,D0062
+Deal 0063,2000000,Closed Won,Deals pipeline,E-commerce,500+,,69,Customer chose us for better customer support reputation based on reference calls.,,,D0063
+Deal 0064,4800000,Closed Won,Deals pipeline,Manufacturing,51-200,,88,"Won on a multi-year discount we offered, customer was price sensitive but valued the relationship.",,,D0064
+Deal 0065,3000000,Closed Won,Deals pipeline,Fintech,1-50,,85,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0065
+Deal 0066,300000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,27,"Competitor A won this because of much faster onboarding, price was actually similar.",,,D0066
+Deal 0067,3100000,Closed Won,Deals pipeline,EdTech,500+,,21,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0067
+Deal 0068,400000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,39,We lost to Competitor A. Customer needed something live before a regulatory deadline and our setup time was too long.,,,D0068
+Deal 0069,200000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,29,"Lost to Competitor A, they could go live in days while our implementation takes weeks, timeline was the dealbreaker.",,,D0069
+Deal 0070,4400000,Closed Lost,Deals pipeline,EdTech,1-50,,52,"Deal went cold, customer stopped responding after the proposal stage, unclear reason.",,,D0070
+Deal 0071,7100000,Closed Lost,Deals pipeline,Logistics,500+,Competitor B,93,"Competitor B won purely on price, procurement forced a discount we couldn't match at this deal size.",,,D0071
+Deal 0072,400000,Closed Won,Deals pipeline,Fintech,1-50,,57,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0072
+Deal 0073,500000,Closed Won,Deals pipeline,EdTech,51-200,,80,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0073
+Deal 0074,1400000,Closed Won,Deals pipeline,Fintech,51-200,,83,"Won after a strong product demo, no major competitor mentioned in this cycle.",,,D0074
+Deal 0075,3400000,Closed Lost,Deals pipeline,Logistics,201-500,Competitor C,49,Lost because our product lacked a specific compliance certification they required.,,,D0075
+Deal 0076,500000,Closed Won,Deals pipeline,Logistics,201-500,,21,"Won on a multi-year discount we offered, customer was price sensitive but valued the relationship.",,,D0076
+Deal 0077,7600000,Closed Lost,Deals pipeline,Manufacturing,500+,Competitor B,103,"Competitor B won purely on price, procurement forced a discount we couldn't match at this deal size.",,,D0077
+Deal 0078,2500000,Closed Won,Deals pipeline,Healthcare,1-50,,54,Won mainly due to existing relationship with the CFO from a previous company.,,,D0078
+Deal 0079,4000000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor C,65,"Deal went cold, customer stopped responding after the proposal stage, unclear reason.",,,D0079
+Deal 0080,4000000,Closed Won,Deals pipeline,Fintech,1-50,,23,Won mainly due to existing relationship with the CFO from a previous company.,,,D0080
+Deal 0081,700000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,17,We lost to Competitor A. Customer needed something live before a regulatory deadline and our setup time was too long.,,,D0081
+Deal 0082,5400000,Closed Lost,Deals pipeline,E-commerce,500+,Competitor B,65,"Lost to Competitor B after a long negotiation, their per-seat pricing was significantly lower for this volume.",,,D0082
+Deal 0083,2700000,Closed Won,Deals pipeline,Logistics,201-500,,62,"Won after a strong product demo, no major competitor mentioned in this cycle.",,,D0083
+Deal 0084,4200000,Closed Won,Deals pipeline,Healthcare,201-500,,79,"Won on a multi-year discount we offered, customer was price sensitive but valued the relationship.",,,D0084
+Deal 0085,4900000,Closed Won,Deals pipeline,Fintech,51-200,,28,Customer chose us for better customer support reputation based on reference calls.,,,D0085
+Deal 0086,3200000,Closed Won,Deals pipeline,EdTech,500+,,42,Champion left mid-cycle but new stakeholder preferred us due to reporting capabilities.,,,D0086
+Deal 0087,3900000,Closed Won,Deals pipeline,E-commerce,500+,,66,"Price was comparable but our implementation timeline sealed it, they needed to go live in 30 days.",,,D0087
+Deal 0088,400000,Closed Won,Deals pipeline,Healthcare,500+,,18,"Won on feature parity plus better support SLA, champion was very engaged throughout.",,,D0088
+Deal 0089,1100000,Closed Won,Deals pipeline,Healthcare,1-50,,35,Champion left mid-cycle but new stakeholder preferred us due to reporting capabilities.,,,D0089
+Deal 0090,5800000,Closed Lost,Deals pipeline,Fintech,51-200,,62,"Lost due to feature gap, they needed multi-currency support which we don't offer yet.",,,D0090
+Deal 0091,2700000,Closed Lost,Deals pipeline,Healthcare,51-200,,52,Lost to Competitor C on integration depth with their existing data warehouse.,,,D0091
+Deal 0092,4800000,Closed Lost,Deals pipeline,E-commerce,500+,Competitor B,96,"Lost to Competitor B, finance team chose based on total contract value, our pricing wasn't competitive at this scale.",,,D0092
+Deal 0093,4100000,Closed Lost,Deals pipeline,E-commerce,500+,,105,"Lost on timing, customer paused all new vendor evaluations due to internal reorg.",,,D0093
+Deal 0094,6500000,Closed Lost,Deals pipeline,E-commerce,500+,Competitor B,64,"Lost to Competitor B after a long negotiation, their per-seat pricing was significantly lower for this volume.",,,D0094
+Deal 0095,1700000,Closed Won,Deals pipeline,E-commerce,51-200,,86,Customer chose us for better customer support reputation based on reference calls.,,,D0095
+Deal 0096,800000,Closed Lost,Deals pipeline,Healthcare,1-50,Competitor A,13,"Lost to Competitor A, implementation speed was the deciding factor, not budget.",,,D0096
+Deal 0097,200000,Closed Lost,Deals pipeline,Healthcare,51-200,Competitor A,31,"Lost to Competitor A, implementation speed was the deciding factor, not budget.",,,D0097
+Deal 0098,4000000,Closed Won,Deals pipeline,Logistics,1-50,,36,Customer chose us for better customer support reputation based on reference calls.,,,D0098
+Deal 0099,4300000,Closed Lost,Deals pipeline,E-commerce,201-500,Competitor C,75,Lost because our product lacked a specific compliance certification they required.,,,D0099
+Deal 0100,700000,Closed Won,Deals pipeline,Healthcare,1-50,,45,Customer liked our pricing flexibility and the demo landed really well with the finance team.,,,D0100

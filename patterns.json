@@ -1,0 +1,150 @@
+[
+  {
+    "dimension": "competitor",
+    "dimension_value": "Competitor B",
+    "reason_tag": "pricing",
+    "group_size": 12,
+    "matching_in_group": 12,
+    "group_rate_pct": 100.0,
+    "overall_rate_pct": 30.0,
+    "lift": 3.33,
+    "confidence": "high",
+    "example_notes": [
+      "Competitor B's aggressive enterprise discount won this one, feature comparison was actually in our favor.",
+      "Competitor B again on a large deal, customer said budget was approved for a lower number than our floor."
+    ]
+  },
+  {
+    "dimension": "competitor",
+    "dimension_value": "Competitor A",
+    "reason_tag": "implementation_speed",
+    "group_size": 14,
+    "matching_in_group": 14,
+    "group_rate_pct": 100.0,
+    "overall_rate_pct": 35.0,
+    "lift": 2.86,
+    "confidence": "high",
+    "example_notes": [
+      "Lost to Competitor A, they could go live in days while our implementation takes weeks, timeline was the dealbreaker.",
+      "Lost to Competitor A, implementation speed was the deciding factor, not budget."
+    ]
+  },
+  {
+    "dimension": "deal_size_bucket",
+    "dimension_value": "under_10L",
+    "reason_tag": "implementation_speed",
+    "group_size": 15,
+    "matching_in_group": 14,
+    "group_rate_pct": 93.3,
+    "overall_rate_pct": 35.0,
+    "lift": 2.67,
+    "confidence": "high",
+    "example_notes": [
+      "Lost to Competitor A, they could go live in days while our implementation takes weeks, timeline was the dealbreaker.",
+      "Lost to Competitor A, implementation speed was the deciding factor, not budget."
+    ]
+  },
+  {
+    "dimension": "industry",
+    "dimension_value": "Healthcare",
+    "reason_tag": "implementation_speed",
+    "group_size": 18,
+    "matching_in_group": 14,
+    "group_rate_pct": 77.8,
+    "overall_rate_pct": 35.0,
+    "lift": 2.22,
+    "confidence": "high",
+    "example_notes": [
+      "Lost to Competitor A, they could go live in days while our implementation takes weeks, timeline was the dealbreaker.",
+      "Lost to Competitor A, implementation speed was the deciding factor, not budget."
+    ]
+  },
+  {
+    "dimension": "deal_size_bucket",
+    "dimension_value": "over_30L",
+    "reason_tag": "pricing",
+    "group_size": 21,
+    "matching_in_group": 12,
+    "group_rate_pct": 57.1,
+    "overall_rate_pct": 30.0,
+    "lift": 1.9,
+    "confidence": "high",
+    "example_notes": [
+      "Competitor B's aggressive enterprise discount won this one, feature comparison was actually in our favor.",
+      "Competitor B again on a large deal, customer said budget was approved for a lower number than our floor."
+    ]
+  },
+  {
+    "dimension": "deal_size_bucket",
+    "dimension_value": "10L_to_30L",
+    "reason_tag": "competitor_loss",
+    "group_size": 4,
+    "matching_in_group": 1,
+    "group_rate_pct": 25.0,
+    "overall_rate_pct": 2.5,
+    "lift": 10.0,
+    "confidence": "moderate",
+    "example_notes": [
+      "Customer chose to stay with incumbent vendor after renewal negotiations improved."
+    ]
+  },
+  {
+    "dimension": "industry",
+    "dimension_value": "Fintech",
+    "reason_tag": "competitor_loss",
+    "group_size": 6,
+    "matching_in_group": 1,
+    "group_rate_pct": 16.7,
+    "overall_rate_pct": 2.5,
+    "lift": 6.67,
+    "confidence": "moderate",
+    "example_notes": [
+      "Customer chose to stay with incumbent vendor after renewal negotiations improved."
+    ]
+  },
+  {
+    "dimension": "industry",
+    "dimension_value": "EdTech",
+    "reason_tag": "other",
+    "group_size": 3,
+    "matching_in_group": 3,
+    "group_rate_pct": 100.0,
+    "overall_rate_pct": 17.5,
+    "lift": 5.71,
+    "confidence": "moderate",
+    "example_notes": [
+      "No competitor mentioned, customer decided to build in-house instead.",
+      "No competitor mentioned, customer decided to build in-house instead."
+    ]
+  },
+  {
+    "dimension": "competitor",
+    "dimension_value": "Competitor C",
+    "reason_tag": "feature_gap",
+    "group_size": 8,
+    "matching_in_group": 3,
+    "group_rate_pct": 37.5,
+    "overall_rate_pct": 10.0,
+    "lift": 3.75,
+    "confidence": "moderate",
+    "example_notes": [
+      "Lost because our product lacked a specific compliance certification they required.",
+      "Lost because our product lacked a specific compliance certification they required."
+    ]
+  },
+  {
+    "dimension": "industry",
+    "dimension_value": "Manufacturing",
+    "reason_tag": "pricing",
+    "group_size": 3,
+    "matching_in_group": 3,
+    "group_rate_pct": 100.0,
+    "overall_rate_pct": 30.0,
+    "lift": 3.33,
+    "confidence": "moderate",
+    "example_notes": [
+      "Competitor B again on a large deal, customer said budget was approved for a lower number than our floor.",
+      "Lost to Competitor B, they undercut us by almost 25% on the enterprise contract."
+    ]
+  }
+]
